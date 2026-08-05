@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 6 |
+| 22 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (5)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (15)
+- [implementation](#implementation) (16)
 - [math](#math) (4)
 - [strings](#strings) (6)
 
@@ -58,6 +58,7 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/344/A%20-%20Magnets/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
