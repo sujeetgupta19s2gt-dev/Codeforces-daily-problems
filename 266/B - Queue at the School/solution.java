@@ -1,0 +1,19 @@
+import java.util.*;
+public class queueSchool{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int t = sc.nextInt();
+        StringBuilder sb = new StringBuilder(sc.next());
+        while(t-- != 0){
+            for(int i=0; i<n-1; i++){
+                if(sb.charAt(i)=='B' && sb.charAt(i+1)=='G'){
+                    sb.setCharAt(i,'G');
+                    sb.setCharAt(i+1,'B');
+                    i++;
+                }
+            }
+        }
+        System.out.println(sb);
+    }
+}
