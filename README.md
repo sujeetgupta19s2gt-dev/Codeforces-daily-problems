@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 9 |
+| 31 | 9 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (24)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (25)
 - [math](#math) (5)
 - [shortest paths](#shortest-paths) (1)
 - [strings](#strings) (7)
@@ -59,6 +59,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 
 ### implementation
 
@@ -81,6 +82,7 @@
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/344/A%20-%20Magnets/solution.java) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/705/A%20-%20Hulk/solution.java) |
