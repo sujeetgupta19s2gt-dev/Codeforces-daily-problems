@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 9 |
+| 36 | 10 |
 
 ---
 
@@ -16,11 +16,12 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (29)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (30)
 - [math](#math) (7)
 - [shortest paths](#shortest-paths) (1)
-- [strings](#strings) (7)
+- [sortings](#sortings) (1)
+- [strings](#strings) (8)
 
 ---
 
@@ -59,6 +60,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 
 ### implementation
@@ -81,6 +83,7 @@
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/344/A%20-%20Magnets/solution.java) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
@@ -113,6 +116,12 @@
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
 ### strings
 
 | # | Problem | Difficulty | Solution |
@@ -123,6 +132,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 
 ---
