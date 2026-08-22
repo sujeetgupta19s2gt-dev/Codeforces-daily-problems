@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 5 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
@@ -30,6 +30,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ### math
