@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
+- [dp](#dp) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (3)
 - [math](#math) (1)
 - [sortings](#sortings) (1)
@@ -20,11 +21,18 @@
 
 ---
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 
 ### implementation
 
