@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 7 |
+| 10 | 7 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (7)
-- [math](#math) (2)
+- [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
 
@@ -59,6 +59,7 @@
 |---|---------|------------|----------|
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
+| 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
 
 ### sortings
 
