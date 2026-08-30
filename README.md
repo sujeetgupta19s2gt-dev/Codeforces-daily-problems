@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 7 |
+| 11 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
@@ -21,6 +22,12 @@
 - [strings](#strings) (3)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Java 21](https://github.com/sujeetgupta19s2gt-dev/Codeforces-daily-problems/blob/HEAD/268/A%20-%20Games/solution.java) |
 
 ### constructive algorithms
 
